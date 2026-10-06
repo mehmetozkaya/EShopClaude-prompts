@@ -1,6 +1,6 @@
 # Prompts by Lecture
 
-Every prompt the instructor types on camera, byte for byte. A lecture that types only commands has no file here.
+This library includes all prompts that run on EShopClaude course and project.
 
 **56 lectures, 154 prompts.**
 
