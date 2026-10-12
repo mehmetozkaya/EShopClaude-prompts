@@ -11,7 +11,7 @@ Two prompts: a review of Claude's own work against the plan, and the commit that
 **What it does:** Three questions in one prompt: what is missing, what was added that nobody asked for, and what contradicts PROJECT.md. It changes nothing.
 
 ```text
-Review the changes in the working tree against the data persistence step in _agenticdev/PLAN.md.
+Review the changes in the feature branch against the 2.1 data persistence step in _agenticdev/PLAN.md.
 
 Report as a short list:
 - anything in the step that is not done
