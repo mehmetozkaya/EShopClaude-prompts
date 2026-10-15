@@ -11,7 +11,7 @@ Four prompts that turn a stub into a spec you could hand to anyone. No code is w
 **What it does:** Claude reads the branch naming rule from the way of working instead of being told it, which is a live test that WOW.md is really loaded.
 
 ```text
-Create the feature branch for _agenticdev/microservices/catalog-api/01-domain-persistence-and-apphost-wiring.md, following the branch naming rule in our way of working. Then show me the current branch.
+Create the feature branch for _agenticdev/microservices/catalog-api/01-product-data.md, following the branch naming rule in our way of working. Then show me the current branch.
 ```
 
 ---
@@ -23,7 +23,7 @@ Create the feature branch for _agenticdev/microservices/catalog-api/01-domain-pe
 **What it does:** The AskUserQuestion pattern again, now at spec level. Naming the questions you *expect* is what stops Claude from guessing the Product fields, the schema creation and the connection string.
 
 ```text
-Read @_agenticdev/microservices/catalog-api/01-domain-persistence-and-apphost-wiring.md, @_agenticdev/templates/spec-template.md and the Catalog section of @_agenticdev/PROJECT.md.
+Read @_agenticdev/microservices/catalog-api/01-product-data.md, @_agenticdev/templates/spec-template.md and the Catalog section of @_agenticdev/PROJECT.md.
 
 Fill in this spec's empty sections: Context, Data model, Tasks and Files touched. Sharpen the Definition of Done so every line is a check I can run.
 
