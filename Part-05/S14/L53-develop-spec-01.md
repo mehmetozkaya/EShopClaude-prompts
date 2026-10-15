@@ -7,6 +7,6 @@ Two sentences. This is the whole prompt, and it is short because the spec and th
 **What it does:** Claude reads the spec and WOW.md, runs its built-in Explore and Plan subagents, and comes back with a plan. Everything a longer prompt would have said is already written down in a file.
 
 ```text
-Develop _agenticdev/microservices/catalog-api/01-domain-persistence-and-apphost-wiring.md feature following the _agenticdev/WOW.md file.
+Develop _agenticdev/microservices/catalog-api/01-product-data.md feature following the _agenticdev/WOW.md file.
 This is a fresh session for microservices spec development.
 ```
