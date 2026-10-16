@@ -1,23 +1,36 @@
-# Lecture 56 - Developing Spec 03, and Amending a Spec
+# Lecture 56 - Developing Spec 03, and Spec 04
 
 The same two sentences, then the lecture's real lesson: when the plan reveals a gap, you amend the **spec**, not the prompt. A prompt patch is forgotten; a spec change is not.
 
 ---
 
-## Step 1 - The same two sentences
+## Step 1 - Spec 03-list-products
 
 **Where:** a cleared, renamed `claude` session in plan mode, on the spec's branch.
 
 **What it does:** Third time, unchanged. Only the file name moves.
 
 ```text
-Develop _agenticdev/microservices/catalog-api/03-product-endpoints.md feature following the _agenticdev/WOW.md file.
+Develop _agenticdev/microservices/catalog-api/03-list-products.md feature following the _agenticdev/WOW.md file.
 This is a fresh session for microservices spec development.
 ```
 
 ---
 
-## Step 2 - Add to the spec's Scope
+## Step 2 - Spec 04-get-product
+
+**Where:** a cleared, renamed `claude` session in plan mode, on the spec's branch.
+
+**What it does:** Third time, unchanged. Only the file name moves.
+
+```text
+Develop _agenticdev/microservices/catalog-api/04-get-product.md feature following the _agenticdev/WOW.md file.
+This is a fresh session for microservices spec development.
+```
+
+---
+
+## Step 3 - Add to the spec's Scope
 
 **Where:** typed by hand into `_agenticdev/microservices/catalog-api/03-product-endpoints.md`. This is not a prompt to send; it is a line added to the spec.
 
@@ -29,7 +42,7 @@ This is a fresh session for microservices spec development.
 
 ---
 
-## Step 2 - Add to the spec's Definition of Done
+## Step 4 - Add to the spec's Definition of Done
 
 **Where:** typed by hand into the same file, under Definition of Done.
 
@@ -41,7 +54,7 @@ This is a fresh session for microservices spec development.
 
 ---
 
-## Step 2 - Ask Claude to re-plan from the amended spec
+## Step 5 - Ask Claude to re-plan from the amended spec
 
 **Where:** the `claude` session, after saving the spec.
 
