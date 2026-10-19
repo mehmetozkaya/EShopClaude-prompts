@@ -42,7 +42,7 @@ Write clear frontmatter and numbered steps, and keep it short enough to read in 
 **What it does:** The skill creates the spec from the template, fills what it can from PROJECT.md and PLAN.md, and asks about the rest.
 
 ```text
-/new-spec catalog-api 04 health-endpoint "Health endpoint"
+/new-spec catalog-api 05 health-endpoint "Health endpoint"
 ```
 
 ---
