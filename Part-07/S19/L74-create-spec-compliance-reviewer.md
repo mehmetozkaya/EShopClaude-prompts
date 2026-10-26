@@ -56,5 +56,5 @@ If the working tree has uncommitted changes, refuse and ask for a commit first.
 **What it does:** The reviewer runs against the catalog-api spec 03 work we merged earlier. A known-good branch is the right first test: it tells you whether the agent reads the standards correctly before you trust it on new code.
 
 ```text
-Use the spec-compliance-reviewer subagent on the merged catalog-api spec 03 work, against its spec file and the rules in @_agenticdev/PROJECT.md.
+Use the spec-compliance-reviewer subagent for catalog-api spec 03 work on the merged feature/catalog-03-list-products branch, against its spec file and the rules in @_agenticdev/PROJECT.md.
 ```
