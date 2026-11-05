@@ -37,7 +37,7 @@ The full loop on one spec: the refusal that proves the gate is real, the spec, t
 **What it does:** Read the spec yourself first. Then tell Claude now - not at the end - that the reviewer will audit this branch before anything merges. An instruction given at the start cannot be forgotten in the middle of a long run.
 
 ```text
-Read _agenticdev/microservices/basket-api/01-cart-storage-apphost-wiring.md.
+Read _agenticdev/microservices/basket-api/01-get-basket.md.
 
 Use the spec-compliance-reviewer subagent to review this branch against basket-api spec 01's Definition of Done and the Basket rules in @_agenticdev/PROJECT.md before I merge.
 ```
