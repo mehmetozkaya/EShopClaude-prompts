@@ -21,7 +21,7 @@ After that you can skip below and auto-spec for spec 03.
 ```text
 /auto-spec basket-api 03
 
-Use the spec-compliance-reviewer subagent to review this branch against basket-api spec 02's Definition of Done and the Basket rules in @_agenticdev/PROJECT.md before I merge.
+Use the spec-compliance-reviewer subagent to review this branch against basket-api spec 03's Definition of Done and the Basket rules in @_agenticdev/PROJECT.md before I merge.
 ```
 
 ---
