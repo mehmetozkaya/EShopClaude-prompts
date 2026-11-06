@@ -16,6 +16,14 @@ Two specs, two different speeds. Spec 02 is a pattern we have already used, so i
 Use the spec-compliance-reviewer subagent to review this branch against basket-api spec 02's Definition of Done and the Basket rules in @_agenticdev/PROJECT.md before I merge.
 ```
 
+After that you can skip below and auto-spec for spec 03.
+
+```text
+/auto-spec basket-api 03
+
+Use the spec-compliance-reviewer subagent to review this branch against basket-api spec 02's Definition of Done and the Basket rules in @_agenticdev/PROJECT.md before I merge.
+```
+
 ---
 
 ## Step 4 - A clean window, then spec 03
