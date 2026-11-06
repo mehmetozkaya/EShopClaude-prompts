@@ -25,3 +25,7 @@ Use the integration-smoke-tester subagent to walk the end to end buying journey 
 ```text
 Now walk the full failure-handling table in @_agenticdev/PROJECT.md against the running services, and report which scenarios behave as documented.
 ```
+If there is no failure-handling table, please send prompt below:
+```text
+please test Standard two: the failure-handling scenarios into integration-smoke-tester subagent md file.
+```
