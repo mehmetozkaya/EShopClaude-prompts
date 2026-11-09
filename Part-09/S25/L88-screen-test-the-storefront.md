@@ -1,4 +1,4 @@
-# Lecture 95 - Screen-Testing the Storefront
+# Lecture 88 - Screen-Testing the Storefront
 
 The browser walk that produces a report, the backlog row that turns the report into work, and the autopilot run that fixes it. Asking for a report and forbidding the fix is the point: findings and changes are two separate decisions.
 

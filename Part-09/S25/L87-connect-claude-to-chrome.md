@@ -1,4 +1,4 @@
-# Lecture 94 - Connecting Claude to Chrome
+# Lecture 87 - Connecting Claude to Chrome
 
 Three prompts. The first is asked before the extension is installed, on purpose, so you see what Claude can and cannot do without it. Everything else typed here is a command (`/chrome`, `claude --chrome`).
 

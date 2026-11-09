@@ -1,4 +1,4 @@
-# Lecture 96 - End-to-End Validation
+# Lecture 89 - End-to-End Validation
 
 Two prompts, and the first one is the lesson: write the test, not the walk-through. Every step carries its expected outcome, so Claude reports pass or fail instead of describing what it saw.
 
