@@ -7,6 +7,6 @@ The same two sentences as Lecture 53, with one file name changed. That repetitio
 **What it does:** Identical in shape to spec 01. Only the spec file name and the plan's content differ.
 
 ```text
-Develop _agenticdev/microservices/catalog-api/02-seed-data.md feature following the _agenticdev/WOW.md file.
+Develop _agenticdev/microservices/catalog-api/02-product-seed.md feature following the _agenticdev/WOW.md file.
 This is a fresh session for microservices spec development.
 ```

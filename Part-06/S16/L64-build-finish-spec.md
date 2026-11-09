@@ -51,7 +51,7 @@ Check .claude/skills/finish-spec/SKILL.md against the cycle in @_agenticdev/WOW.
 
 ---
 
-## Step 4 - Fix the skill on camera
+## Step 4 - Fix the skill
 
 **Where:** the same session.
 
