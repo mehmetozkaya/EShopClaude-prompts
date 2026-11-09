@@ -2,7 +2,7 @@
 
 This library includes all prompts that run on EShopClaude course and project.
 
-**56 lectures, 154 prompts.**
+**50 lectures, 133 prompts.**
 
 | Lecture | Prompts | File |
 |---|---|---|
@@ -33,7 +33,7 @@ This library includes all prompts that run on EShopClaude course and project.
 | Developing Spec 01 | 1 | [Part-05/S14/L53-develop-spec-01.md](Part-05/S14/L53-develop-spec-01.md) |
 | Verifying and Merging Spec 01 | 2 | [Part-05/S14/L54-verify-and-merge-spec-01.md](Part-05/S14/L54-verify-and-merge-spec-01.md) |
 | Developing Spec 02 | 1 | [Part-05/S14/L55-catalog-spec-02.md](Part-05/S14/L55-catalog-spec-02.md) |
-| Developing Spec 03, and Amending a Spec | 4 | [Part-05/S14/L56-catalog-spec-03.md](Part-05/S14/L56-catalog-spec-03.md) |
+| Developing Spec 03, and Spec 04 | 5 | [Part-05/S14/L56-catalog-spec-03.md](Part-05/S14/L56-catalog-spec-03.md) |
 | Building /new-spec | 4 | [Part-06/S16/L62-build-new-spec.md](Part-06/S16/L62-build-new-spec.md) |
 | Building /start-spec | 5 | [Part-06/S16/L63-build-start-spec.md](Part-06/S16/L63-build-start-spec.md) |
 | Building /finish-spec | 5 | [Part-06/S16/L64-build-finish-spec.md](Part-06/S16/L64-build-finish-spec.md) |
@@ -47,18 +47,12 @@ This library includes all prompts that run on EShopClaude course and project.
 | Basket Spec 01 Through the Skill Loop | 4 | [Part-07/S20/L77-basket-spec-01.md](Part-07/S20/L77-basket-spec-01.md) |
 | The Third Gate | 1 | [Part-07/S20/L78-third-gate.md](Part-07/S20/L78-third-gate.md) |
 | Basket Specs 02 and 03 | 4 | [Part-07/S20/L79-basket-specs-02-03.md](Part-07/S20/L79-basket-specs-02-03.md) |
-| Basket Specs 04 and 05 | 4 | [Part-07/S20/L80-basket-specs-04-05.md](Part-07/S20/L80-basket-specs-04-05.md) |
+| Basket Spec 04 Checkout Orchestration | 3 | [Part-07/S20/L80-basket-specs-04-05.md](Part-07/S20/L80-basket-specs-04-05.md) |
 | Creating the integration-smoke-tester | 1 | [Part-07/S21/L81-create-integration-smoke-tester.md](Part-07/S21/L81-create-integration-smoke-tester.md) |
 | Running the Integration Smoke Tests | 2 | [Part-07/S21/L82-run-integration-smoke-tests.md](Part-07/S21/L82-run-integration-smoke-tests.md) |
-| The PreToolUse Hooks | 9 | [Part-08/S22/L86-protect-main-hook.md](Part-08/S22/L86-protect-main-hook.md) |
-| The Stop Hook Build Gate | 4 | [Part-08/S22/L87-build-gate-hook.md](Part-08/S22/L87-build-gate-hook.md) |
-| Auditing the AppHost Wiring | 2 | [Part-09/S23/L88-apphost-topology-audit.md](Part-09/S23/L88-apphost-topology-audit.md) |
-| Letting Claude Read the Trace | 1 | [Part-09/S23/L89-read-the-trace.md](Part-09/S23/L89-read-the-trace.md) |
-| Extending the Backlog to the Storefront | 4 | [Part-09/S24/L91-storefront-backlog.md](Part-09/S24/L91-storefront-backlog.md) |
-| Storefront Spec 01 | 3 | [Part-09/S24/L92-storefront-spec-01.md](Part-09/S24/L92-storefront-spec-01.md) |
-| Storefront Spec 02 | 4 | [Part-09/S24/L93-storefront-spec-02.md](Part-09/S24/L93-storefront-spec-02.md) |
-| Connecting Claude to Chrome | 3 | [Part-09/S25/L94-connect-claude-to-chrome.md](Part-09/S25/L94-connect-claude-to-chrome.md) |
-| Screen-Testing the Storefront | 4 | [Part-09/S25/L95-screen-test-the-storefront.md](Part-09/S25/L95-screen-test-the-storefront.md) |
-| End-to-End Validation | 2 | [Part-09/S25/L96-end-to-end-validation.md](Part-09/S25/L96-end-to-end-validation.md) |
-| Adding the Postgres MCP Server | 1 | [Part-10/S27/L99-add-postgres-mcp.md](Part-10/S27/L99-add-postgres-mcp.md) |
-| Querying catalogdb Through MCP | 2 | [Part-10/S27/L100-query-catalogdb.md](Part-10/S27/L100-query-catalogdb.md) |
+| Breaking the Storefront into Specs | 4 | [Part-09/S24/L84-storefront-backlog.md](Part-09/S24/L84-storefront-backlog.md) |
+| Storefront Specs: Listing Products and Adding to the Cart | 2 | [Part-09/S24/L85-storefront-product-specs.md](Part-09/S24/L85-storefront-product-specs.md) |
+| Storefront Specs: Cart, Checkout and Orders | 3 | [Part-09/S24/L86-storefront-cart-orders-specs.md](Part-09/S24/L86-storefront-cart-orders-specs.md) |
+| Connecting Claude to Chrome | 3 | [Part-09/S25/L87-connect-claude-to-chrome.md](Part-09/S25/L87-connect-claude-to-chrome.md) |
+| Screen-Testing the Storefront | 4 | [Part-09/S25/L88-screen-test-the-storefront.md](Part-09/S25/L88-screen-test-the-storefront.md) |
+| End-to-End Validation | 2 | [Part-09/S25/L89-end-to-end-validation.md](Part-09/S25/L89-end-to-end-validation.md) |
