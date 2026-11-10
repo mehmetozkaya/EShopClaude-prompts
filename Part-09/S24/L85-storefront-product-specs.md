@@ -29,3 +29,17 @@ Use the spec-compliance-reviewer subagent to review this branch against the spec
 
 Use the spec-compliance-reviewer subagent to review this branch against the spec's Definition of Done and the storefront rules in @_agenticdev/PROJECT.md before I merge.
 ```
+Continue to next spec development:
+
+```text
+/auto-spec web 03
+
+Use the spec-compliance-reviewer subagent to review this branch against the spec's Definition of Done and the storefront rules in @_agenticdev/PROJECT.md before I merge.
+```
+Continue to next spec development:
+
+```text
+/auto-spec web 04
+
+Use the spec-compliance-reviewer subagent to review this branch against the spec's Definition of Done and the storefront rules in @_agenticdev/PROJECT.md before I merge.
+```
