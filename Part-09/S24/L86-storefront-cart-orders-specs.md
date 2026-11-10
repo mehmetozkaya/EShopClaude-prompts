@@ -4,28 +4,36 @@ The same two blocks for every remaining web spec, then one read-only audit that 
 
 ---
 
-## Step 1 - The cart spec
+## Step 1 - The orders specs
 
-**Where:** a `claude` session on `main`, after `/clear` and `/rename web-03`.
+**Where:** the same terminal, after `/clear` and `/rename web-05`. Repeat it for every web spec that is left.
 
-**What it does:** Read this spec slowly at gate one: prices come from the Basket snapshot, Place order is disabled while the cart is empty, and checkout is one call to Basket. The page never calls Ordering to create anything.
+**What it does:** The first spec that calls Ordering adds the `ordering-api` reference to `webfrontend`. Both order pages only read, and the Order detail page is also the checkout confirmation.
 
 ```text
-/auto-spec web 03
+/auto-spec web 05
 
 Use the spec-compliance-reviewer subagent to review this branch against the spec's Definition of Done and the storefront rules in @_agenticdev/PROJECT.md before I merge.
 ```
 
 ---
 
-## Step 3 - The orders specs
+## Step 2 - The Place Order
 
-**Where:** the same terminal, after `/clear` and `/rename web-04`. Repeat it for every web spec that is left.
+**Where:** a `claude` session on `main`, after `/clear` and `/rename web-06`.
 
-**What it does:** The first spec that calls Ordering adds the `ordering-api` reference to `webfrontend`. Both order pages only read, and the Order detail page is also the checkout confirmation.
+**What it does:** Read this spec slowly at gate one: prices come from the Basket snapshot, Place order is disabled while the cart is empty, and checkout is one call to Basket. The page never calls Ordering to create anything.
 
 ```text
-/auto-spec web 04
+/auto-spec web 06
+
+Use the spec-compliance-reviewer subagent to review this branch against the spec's Definition of Done and the storefront rules in @_agenticdev/PROJECT.md before I merge.
+```
+
+Continue to next spec:
+
+```text
+/auto-spec web 07
 
 Use the spec-compliance-reviewer subagent to review this branch against the spec's Definition of Done and the storefront rules in @_agenticdev/PROJECT.md before I merge.
 ```
